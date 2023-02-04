@@ -10,6 +10,10 @@
 👉🏻 Output Sample
 👉🏻 [Accuracy : Top Notch] 😍
 ![image](https://user-images.githubusercontent.com/111262410/216771987-398d454b-ae1e-4aa1-aba6-a79712e631ba.png)
+# Human Potrait Test - 2 (Complex)
+👉🏻 Output Sample
+👉🏻 [Accuracy : Top Notch] 😍
+![image](https://user-images.githubusercontent.com/111262410/216772669-5bdfec4c-89b4-4821-8f42-c011d979fe0e.png)
 # Objects Test - 1 (Easy)
 👉🏻 Output Sample
 👉🏻 [Accuracy : Top Notch] 😍
